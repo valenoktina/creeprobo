@@ -32,7 +32,8 @@
 
 Далее мы перешли к сборке по схеме, чтобы двигатель был подключён в цепь параллельно.
 
-<img width="1405" height="822" alt="image" src="https://github.com/user-attachments/assets/95666c8b-d612-47f5-9a03-d0228cff8c0d" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/995e65f1-d9a3-46fe-a924-e12940edae75" />
+
 
 ## 3. Разработка формы и эскиз прототипа
 
